@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike.
-- 👀 I’m interested in front-end web development and design. However, I'm also dabbling in back-end development.
-- 🌱 I’m currently improving my CSS and Javascript skils, as well as learning some C#.
+- 👀 I’m interested in front-end web development and UI/UX design. I have a graphic design background, and experience with general web design.
+- 🌱 I’m currently improving my CSS and Javascript skils.
 
 This readme will be updated.
 
